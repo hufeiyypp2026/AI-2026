@@ -1,0 +1,10 @@
+.obsidian/workspace.json
+
+# Obsidian caches and transient state
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
